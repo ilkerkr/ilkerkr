@@ -1,4 +1,5 @@
 ### Hi there 👋I am İlker
+<hr>
 👨‍💻My developer career started in 2023, and it goes on...<br>🔥Nowadays I am learning development to be a Fullstack Developer.<br>🕒I am currently actively learning React and developing websites using HTML, CSS AND Javascript.<br>
 
 
