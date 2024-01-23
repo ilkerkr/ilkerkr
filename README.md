@@ -3,7 +3,7 @@
 👨‍💻My developer career started in 2023, and it goes on...<br>🔥Nowadays I am learning development to be a Fullstack Developer.<br>🕒I am currently actively learning React and developing websites using HTML, CSS AND Javascript.<br>
 
 
-## 🌐 Socials:
+## 🌐 Connect with me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ilker.kircicek) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ilker-kırçiçek-b52188298) 
 
 # 💻 Tech Stack:
