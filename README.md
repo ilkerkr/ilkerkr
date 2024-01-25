@@ -1,4 +1,4 @@
-<img align="right" src="https://visitcount.itsvg.in/api?id=ilkerkr&icon=0&color=5">
+<img align="right" src="https://komarev.com/ghpvc/?username=ilkerkr" alt="visitor counter"  height="28.5"/>
 
 <p align="center">
     <a href="https://git.io/typing-svg">
