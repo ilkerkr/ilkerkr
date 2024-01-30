@@ -16,7 +16,7 @@
 
 
 <p align="center">
-    👨‍💻My developer career started in 2023, and it goes on...
+    👨‍💻My developer career started in 2024, and it goes on...
      <br>
     🔥Nowadays I am learning development to be a Fullstack Developer.
     <br>
