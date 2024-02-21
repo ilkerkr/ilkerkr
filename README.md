@@ -37,11 +37,11 @@
 <h3 align="center">⚡ Stats ⚡</h3>
 <br>
 <div> 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ilkerkr&theme=buefy" alt="ilkerkr" width="300" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ilkerkr&theme=buefy" alt="ilkerkr" width="30%" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ilkerkr&show_icons=true&theme=buefy&locale=en&layout=compact" alt="ilkerkr" width="300" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ilkerkr&show_icons=true&theme=buefy&locale=en&layout=compact" alt="ilkerkr" width="30%" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ilkerkr&show_icons=true&theme=buefy&locale=en" alt="ilkerkr" width="300" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ilkerkr&show_icons=true&theme=buefy&locale=en" alt="ilkerkr" width="30%" /></p>
  </div>
  <br>
  <div>
