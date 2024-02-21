@@ -36,20 +36,18 @@
 
 <h3 align="center">⚡ Stats ⚡</h3>
 <br>
-<div style="margin-bottom:10px;margin:top:10px;height:170px">
-      <p valign="top" width="32%;" height="180px">
-        <a href="https://github.com/anuraghazra/github-readme-stats"><img width="30%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilkerkr&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true"/></a>
-      </p>
-      <p valign="top" width="32%" height="180px">
-        <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img align="left" width="30%" src="https://github-readme-stats.vercel.app/api?username=ilkerkr&show_icons=true&theme=react&border_color=61dafb&hide_border=true" /></a>
-      </p>
-      <p valign="top" width="32%" height="180px">
-        <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source"><img align="left" width="30%" src="https://github-readme-streak-stats.herokuapp.com/?user=ilkerkr&theme=react&border=61dafb&hide_border=true" alt="ramazansancar" /></a>
-      </p>
-      <p>
-        <a><img src="https://github-profile-trophy.vercel.app/?username=ilkerkr&theme=dracula&no-frame=false&no-bg=true&margin-w=4"></a>
-      </p>
-  </div>
+<div> 
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ilkerkr&theme=buefy" alt="ilkerkr" width="300" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ilkerkr&show_icons=true&theme=buefy&locale=en&layout=compact" alt="ilkerkr" width="300" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ilkerkr&show_icons=true&theme=buefy&locale=en" alt="ilkerkr" width="300" /></p>
+ </div>
+ <br>
+ <div>
+     <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ilkerkr&theme=tokyonight&no-frame=false&no-bg=true&margin-w=10" alt="ilkerkr" /></a> </p>
+
+ </div>
  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
   
   <h3 align="center">
