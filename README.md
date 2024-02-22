@@ -5,12 +5,12 @@
       <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;He+is+İlker+Kırçiçek....;Nice+to+meet+you!&center=true&size=30">
     </a>
 </p> 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/> 
 
 
 <p align="center">
 
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="800" height="400">
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="400px" width="400px" align="center">
   
 </p>
 
@@ -69,12 +69,12 @@
 
 <div align="center">
     <a href="https://www.linkedin.com/in/ilker-kırçiçek-b52188298/" target="_blank">
-        <img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=blue" target="_blank">
+        <img src="https://github.com/ilkerkr/ilkerkr/assets/156087835/e6122f49-c968-4abc-ab16-b711dfafaff1" target="_blank">
     </a>
     <a href = "mailto:ilker.kircicek11@gmail.com">
-        <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=reed" target="_blank">
+        <img src="https://github.com/ilkerkr/ilkerkr/assets/156087835/adfb0f73-65ca-4d4f-8670-5ca5df7a8e8d" target="_blank">
     </a>
     <a href="https://www.instagram.com/ilker.kircicek/?hl=tr" target="_blank">
-        <img alt="Instagram" src="https://img.shields.io/badge/instagram-%23333?&style=for-the-badge&logo=instagram&logoColor=#E1306C "/>
+        <img alt="Instagram" src="https://github.com/ilkerkr/ilkerkr/assets/156087835/e0186c38-a984-45b1-9677-e5ac70d935c3" target="_blank"/>
     </a>
 </div> 
