@@ -47,7 +47,6 @@
 <code><img src="https://github.com/ilkerkr/ilkerkr/assets/156087835/b17025fb-a6a9-44b2-8fac-a8387c49ab1c" width="80"/></code>
 <code><img src="https://github.com/ilkerkr/ilkerkr/assets/156087835/e55a6064-0a46-4d15-b132-7ca4765820b6" width="80"/></code>
 <code><img src="https://github.com/ilkerkr/ilkerkr/assets/156087835/5ff82609-2824-408a-b19e-b0066b5c5d50" width="80"/></code>
-<code><img src="https://github.com/ilkerkr/ilkerkr/assets/156087835/5a6ce921-77a3-4bb7-bb66-93927c3637e2" width="80"/></code>
 <code><img src="https://github.com/ilkerkr/ilkerkr/assets/156087835/2d0ceee3-c171-4f8c-92e6-9068c97ba2e0" width="80"/></code>
 <code><img src="https://github.com/ilkerkr/ilkerkr/assets/156087835/86944514-6b98-41a8-8cb0-37d93838220e" width="80"/></code>
 
