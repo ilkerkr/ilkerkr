@@ -55,11 +55,11 @@
 <h3 align="center">⚡ Stats ⚡</h3>
 <br>
 <div> 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ilkerkr&theme=buefy&background=000000&border=6420AA" alt="ilkerkr" width="30%" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ilkerkr&theme=midnight-purple&background=000000&border=6420AA" alt="ilkerkr" width="30%" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ilkerkr&show_icons=true&theme=buefy&locale=en&layout=compact&bg_color=000000&border_color=6420AA" alt="ilkerkr" width="30%" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ilkerkr&show_icons=true&theme=midnight-purple&locale=en&layout=compact&bg_color=000000&border_color=6420AA" alt="ilkerkr" width="30%" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ilkerkr&show_icons=true&theme=buefy&locale=en&bg_color=000000&border_color=6420AA" alt="ilkerkr" width="30%" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ilkerkr&show_icons=true&theme=midnight-purple&locale=en&bg_color=000000&border_color=6420AA" alt="ilkerkr" width="30%" /></p>
  </div>
  <br>
  <div>
